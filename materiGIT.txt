@@ -1,3 +1,4 @@
 Git adalah version control system yang digunakan para developer untuk mengembangkan software secara bersama-bersama. 
 Fungsi utama git yaitu mengatur versi dari source code program anda dengan mengasih tanda baris dan code mana yang ditambah atau diganti.
 Untuk mengetahui bagaimana menggunakan git, berikut perintah-perintah dasar git:
+Git init : untuk membuat repository pada file lokal yang nantinya ada folder .git
