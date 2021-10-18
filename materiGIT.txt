@@ -9,3 +9,4 @@ Git push : untuk mengirimkan perubahan file setelah di commit ke remote reposito
 Git branch : melihat seluruh branch yang ada pada repository
 Git checkout : menukar branch yang aktif dengan branchyang dipilih
 GIt merge : untuk menggabungkan branch yang aktif dan branch yang dipilih
+Git clone : membuat Salinan repository lokal
