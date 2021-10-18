@@ -3,3 +3,4 @@ Fungsi utama git yaitu mengatur versi dari source code program anda dengan menga
 Untuk mengetahui bagaimana menggunakan git, berikut perintah-perintah dasar git:
 Git init : untuk membuat repository pada file lokal yang nantinya ada folder .git
 Git status : untuk mengetahui status dari repository lokal
+Git add : menambahkan file baru pada repository yang dipilih
