@@ -8,3 +8,4 @@ Git commit : untuk menyimpan perubahan yang dilakukan, tetapi tidak ada perubaha
 Git push : untuk mengirimkan perubahan file setelah di commit ke remote repository.
 Git branch : melihat seluruh branch yang ada pada repository
 Git checkout : menukar branch yang aktif dengan branchyang dipilih
+GIt merge : untuk menggabungkan branch yang aktif dan branch yang dipilih
